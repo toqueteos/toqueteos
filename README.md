@@ -8,4 +8,4 @@ I also try to give back to the community when I have the time. Lately that's bee
 
 Currently I'm building a service that I've yet to announce but I'm pretty sure a lot of people might find useful, we'll see about that..
 
-[blog]: https://blog.toqueteos.es
+[blog]: https://toqueteos.es/blog/
