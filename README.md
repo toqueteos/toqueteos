@@ -2,10 +2,10 @@
 
 Nice to meet you!
 
-I [post about my technology experiments and job-related rants][blog] from time to time.
+I [post about tech (mostly) and job-related rants][blog] from time to time (at most twice a year).
 
-I also try to give back to the community when I have the time. Lately that's been the DevOps ecosystem.
+I also try to give back to the community when I have the time.
 
-Currently I'm building a service that I've yet to announce but I'm pretty sure a lot of people might find useful, we'll see about that..
+Currently I'm building a browser space game inspired by the 2000s classics (OGame, XWars).
 
 [blog]: https://toqueteos.es/blog/
